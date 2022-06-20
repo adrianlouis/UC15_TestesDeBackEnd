@@ -1,0 +1,12 @@
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\bin\Debug\net6.0\Abeso.deps.json
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\bin\Debug\net6.0\Abeso.dll
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\bin\Debug\net6.0\Abeso.pdb
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\Abeso.csproj.AssemblyReference.cache
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\Abeso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\Abeso.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\Abeso.AssemblyInfo.cs
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\Abeso.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\Abeso.dll
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\refint\Abeso.dll
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\Abeso.pdb
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ref\Abeso.dll

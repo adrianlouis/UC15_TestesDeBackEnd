@@ -1,0 +1,12 @@
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\bin\Debug\net6.0\ProjetoTesteFST1.deps.json
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\bin\Debug\net6.0\ProjetoTesteFST1.dll
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\bin\Debug\net6.0\ProjetoTesteFST1.pdb
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.csproj.AssemblyReference.cache
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.AssemblyInfo.cs
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.dll
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\refint\ProjetoTesteFST1.dll
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.pdb
+C:\Users\adria\Documents\uc15 projeto teste\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ref\ProjetoTesteFST1.dll
