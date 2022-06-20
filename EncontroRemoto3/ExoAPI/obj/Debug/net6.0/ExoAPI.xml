@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExoAPI</name>
+    </assembly>
+    <members>
+        <member name="M:ExoAPI.Controllers.LoginController.EfetuarLogin(ExoAPI.Models.Usuario)">
+            <summary>
+            Permite ao usuário efetuar login no site
+            </summary>
+            <param name="usuario">Objeto que contém o e-mail e a senha para se logar</param>
+            <returns>Token a ser usado nas próximas chamadas para autenticação</returns>
+        </member>
+        <member name="M:ExoAPI.Controllers.ProjetosController.Listar">
+            <summary>
+            Lista todos os projetos cadastrados; requer autenticação
+            </summary>
+            <returns>Lista de projetos</returns>
+        </member>
+        <member name="M:ExoAPI.Controllers.ProjetosController.BuscarPorId(System.Int32)">
+            <summary>
+            Busca por um projeto específico pelo seu id; requer autenticação
+            </summary>
+            <param name="id">Id do projeto a ser localizado</param>
+            <returns>Lista de projetos</returns>
+        </member>
+        <member name="M:ExoAPI.Controllers.ProjetosController.Cadastrar(ExoAPI.Models.Projeto)">
+            <summary>
+            Insere um novo projeto na base de dados; requer autenticação
+            </summary>
+            <param name="projeto">Objeto que contém os dados a serem cadastrados</param>
+            <returns>Objeto com o id atualizado após ser salvo no banco</returns>
+        </member>
+        <member name="M:ExoAPI.Controllers.ProjetosController.Atualizar(System.Int32,ExoAPI.Models.Projeto)">
+            <summary>
+            Atualiza os dados de um determinado projeto; requer autenticação
+            </summary>
+            <param name="id">Id do projeto a ser atualizado</param>
+            <param name="projeto">Objeto que contém os dados serem atualizados</param>
+            <returns>Objeto atualizado</returns>
+        </member>
+        <member name="M:ExoAPI.Controllers.ProjetosController.Excluir(System.Int32)">
+            <summary>
+            Exclui um determinado projeto; requer autenticação
+            </summary>
+            <param name="id">Id do projeto a ser excluído</param>
+            <returns>True se a exclusão foi feita com sucesso, false caso contrário</returns>
+        </member>
+        <member name="M:ExoAPI.Controllers.UsuariosController.Listar">
+            <summary>
+            Lista todos os usuários cadastrados; requer autenticação
+            </summary>
+            <returns>Lista de usuários</returns>        
+        </member>
+        <member name="M:ExoAPI.Controllers.UsuariosController.BuscarPorId(System.Int32)">
+            <summary>
+            Busca por um usuário específico; requer autenticação
+            </summary>
+            <param name="id">Id do usuário a ser localizado</param>
+            <returns>Usuário encontrado</returns>
+        </member>
+        <member name="M:ExoAPI.Controllers.UsuariosController.Cadastrar(ExoAPI.Models.Usuario)">
+            <summary>
+            Insere um novo usuário no banco de dados
+            </summary>
+            <param name="usuario">Objeto que contém os dados a serem persistidos</param>
+            <returns>Objeto com id atualizado após ser salvo no banco</returns>
+        </member>
+        <member name="M:ExoAPI.Controllers.UsuariosController.Atualizar(System.Int32,ExoAPI.Models.Usuario)">
+            <summary>
+            Atualiza um determinado usuário; requer autenticação
+            </summary>
+            <param name="id">Id do usuário a ser atualizado</param>
+            <param name="usuario">Objeto que contém os dados a serem persistidos</param>
+            <returns>Objeto atualizado</returns>
+        </member>
+        <member name="M:ExoAPI.Controllers.UsuariosController.Excluir(System.Int32)">
+            <summary>
+            Exclui um determinado usuário do banco de dados; requer autenticação e perfil de administrador
+            </summary>
+            <param name="id">Id do usuário a ser excluído</param>
+            <returns>True se exclusão feita com sucesso, false caso contrário</returns>
+        </member>
+    </members>
+</doc>
